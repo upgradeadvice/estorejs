@@ -29,7 +29,7 @@
     "q": "^1.1.2",
     "string-template": "^0.2.0",
     "validate.js": "^0.3.2",
-    "underscore": "~1.7.0"
+    "underscore": "^1.8.4"
   },
   "devDependencies": {
     "asynctrace": "1.4.1",
